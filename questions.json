@@ -1,0 +1,101 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "If twelve less than 3 times of a number is 27, then the number is ______.",
+        "options": [
+            "29",
+            "39",
+            "65",
+            "13"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2",
+        "question": "If x = 3 and y = 7, then find the value of <br><img src='./assests/images/1.png' width='50%'>",
+        "options": [
+            "<sup>63</sup>&frasl;<sub>2</sub>",
+            "<sup>65</sup>&frasl;<sub>2</sub>",
+            "<sup>18</sup>&frasl;<sub>2</sub>",
+            "96"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Sanjay had <i>s</i> eggs. He used 8 eggs to bake a cake and 7 eggs were broken. Which expression shows the number of eggs left with him?",
+        "options": [
+            "15s - 1",
+            "15 - s",
+            "s - 15",
+            "1 - 15s"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "The breadth of a rectangle is <i>w</i> cm and the length is 5 times as long  as its breadth. What is the perimeter of the rectangle?",
+        "options": [
+            "5w cm",
+            "12w cm",
+            "(10 + 2w) cm",
+            "(25 + w) cm"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "The number of girls in a class is 3 times the number of boys. Which of the following cannot be the total number of students in the class?",
+        "options": [
+            "24",
+            "32",
+            "36",
+            "41"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q6",
+        "question": "The algebraic expression for the statement Thrice of x is added to twice of y is _______.",
+        "options": [
+            "3x + 2y",
+            "3x + y",
+            "3(x + y)",
+            "2x + 3y"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "If a = b, then ax = _____.",
+        "options": [
+            "a + x",
+            "bx",
+            "b - x",
+            "b ÷ x"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "The equation _______ and<br> 2x + 2 = 0 have the same solution",
+        "options": [
+            "x - 1 = 0",
+            "x + 1 = 0",
+            "x - 2 = 0",
+            "x + 1 = 0"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Jaya score in Mathematics is 30 more than two third of her score in English. If her score in English is x, then which of the following expressions shows her score in Mathematics?",
+        "options": [
+            "./assests/optionImg/1.jpg",
+            "./assests/optionImg/2.jpg",
+            "./assests/optionImg/3.jpg",
+            "./assests/optionImg/4.jpg"
+        ],
+        "correct": 1
+    }
+]
